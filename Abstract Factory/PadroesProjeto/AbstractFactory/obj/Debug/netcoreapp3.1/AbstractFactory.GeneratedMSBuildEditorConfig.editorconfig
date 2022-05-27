@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AbstractFactory
+build_property.ProjectDir = C:\MyGit\dotnet.design.patterns\Abstract Factory\PadroesProjeto\AbstractFactory\
