@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4j9DpO8XwMlRbFzSCA7Dp5uiQp1yD5Ixc9ZbqrZkhh+uWH1tdTaqsTzYBNGguECwZfJjKFhXX077RZDDu06Aqg==",
+  "dgSpecHash": "RoVa+dUf7O50K2fVdukLXoAWBlFvuUeswsMJ1MuJ14QPxTcR9XYciTRZh3fgI/fG4sSJLjB/0eMvP+NkXzm4Bg==",
   "success": true,
   "projectFilePath": "C:\\MyGit\\dotnet.design.patterns\\Abstract Factory\\PadroesProjeto\\TestsAbstractFactory\\TestsAbstractFactory.csproj",
   "expectedPackageFiles": [
