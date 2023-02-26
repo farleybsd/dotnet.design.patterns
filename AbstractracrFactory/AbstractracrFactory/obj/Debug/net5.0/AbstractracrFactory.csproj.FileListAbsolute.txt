@@ -1,0 +1,16 @@
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\AbstractracrFactory.exe
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\AbstractracrFactory.deps.json
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\AbstractracrFactory.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\AbstractracrFactory.runtimeconfig.dev.json
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\AbstractracrFactory.dll
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\ref\AbstractracrFactory.dll
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\bin\Debug\net5.0\AbstractracrFactory.pdb
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.dll
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\ref\AbstractracrFactory.dll
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.pdb
+C:\MyGit\dotnet.design.patterns\AbstractracrFactory\AbstractracrFactory\obj\Debug\net5.0\AbstractracrFactory.genruntimeconfig.cache

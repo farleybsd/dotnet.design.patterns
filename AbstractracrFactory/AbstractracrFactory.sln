@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractracrFactory", "AbstractracrFactory\AbstractracrFactory.csproj", "{E8589962-078D-4040-8071-1968362EC32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8589962-078D-4040-8071-1968362EC32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8589962-078D-4040-8071-1968362EC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8589962-078D-4040-8071-1968362EC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8589962-078D-4040-8071-1968362EC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1F6261-3A86-4C60-844C-4004DFEBF1ED}
+	EndGlobalSection
+EndGlobal
