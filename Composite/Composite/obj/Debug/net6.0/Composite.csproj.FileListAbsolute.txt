@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\Composite\Composite\bin\Debug\net6.0\Composite.exe
+C:\MyGit\dotnet.design.patterns\Composite\Composite\bin\Debug\net6.0\Composite.deps.json
+C:\MyGit\dotnet.design.patterns\Composite\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\Composite\Composite\bin\Debug\net6.0\Composite.dll
+C:\MyGit\dotnet.design.patterns\Composite\Composite\bin\Debug\net6.0\Composite.pdb
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.dll
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\refint\Composite.dll
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.pdb
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\Composite\Composite\obj\Debug\net6.0\ref\Composite.dll
