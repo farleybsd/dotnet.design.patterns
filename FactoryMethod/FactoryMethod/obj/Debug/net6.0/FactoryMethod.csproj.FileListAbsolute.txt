@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\FactoryMethod\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
