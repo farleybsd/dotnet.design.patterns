@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
