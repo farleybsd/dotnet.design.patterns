@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.exe
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.deps.json
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.dll
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.pdb
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.dll
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\refint\FacadePattern.dll
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.pdb
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\FacadePattern\FacadePattern\obj\Debug\net6.0\ref\FacadePattern.dll
