@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\bin\Debug\net6.0\CommandPatterns.exe
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\bin\Debug\net6.0\CommandPatterns.deps.json
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\bin\Debug\net6.0\CommandPatterns.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\bin\Debug\net6.0\CommandPatterns.dll
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\bin\Debug\net6.0\CommandPatterns.pdb
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.dll
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\refint\CommandPatterns.dll
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.pdb
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\CommandPatterns.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\CommandPatterns\CommandPatterns\obj\Debug\net6.0\ref\CommandPatterns.dll
