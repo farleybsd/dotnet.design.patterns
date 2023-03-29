@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\bin\Debug\net6.0\ObserverDesignPattner.exe
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\bin\Debug\net6.0\ObserverDesignPattner.deps.json
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\bin\Debug\net6.0\ObserverDesignPattner.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\bin\Debug\net6.0\ObserverDesignPattner.dll
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\bin\Debug\net6.0\ObserverDesignPattner.pdb
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.dll
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\refint\ObserverDesignPattner.dll
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.pdb
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ObserverDesignPattner.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\ObserverDesignPattner\ObserverDesignPattner\obj\Debug\net6.0\ref\ObserverDesignPattner.dll
