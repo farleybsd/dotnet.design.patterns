@@ -1,0 +1,15 @@
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\bin\Debug\net6.0\StrategyPatern.exe
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\bin\Debug\net6.0\StrategyPatern.deps.json
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\bin\Debug\net6.0\StrategyPatern.runtimeconfig.json
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\bin\Debug\net6.0\StrategyPatern.dll
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\bin\Debug\net6.0\StrategyPatern.pdb
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.csproj.AssemblyReference.cache
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.AssemblyInfoInputs.cache
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.AssemblyInfo.cs
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.csproj.CoreCompileInputs.cache
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.dll
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\refint\StrategyPatern.dll
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.pdb
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\StrategyPatern.genruntimeconfig.cache
+C:\MyGit\dotnet.design.patterns\StrategyPatern\StrategyPatern\obj\Debug\net6.0\ref\StrategyPatern.dll
