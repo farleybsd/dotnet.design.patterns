@@ -1,0 +1,15 @@
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\bin\Debug\net7.0\ChatJogadores.exe
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\bin\Debug\net7.0\ChatJogadores.deps.json
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\bin\Debug\net7.0\ChatJogadores.runtimeconfig.json
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\bin\Debug\net7.0\ChatJogadores.dll
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\bin\Debug\net7.0\ChatJogadores.pdb
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.csproj.AssemblyReference.cache
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.AssemblyInfoInputs.cache
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.AssemblyInfo.cs
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.csproj.CoreCompileInputs.cache
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.dll
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\refint\ChatJogadores.dll
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.pdb
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ChatJogadores.genruntimeconfig.cache
+C:\Git\dotnet.design.patterns\Mediator\ChatJogadores\ChatJogadores\obj\Debug\net7.0\ref\ChatJogadores.dll
